@@ -9,7 +9,7 @@
 
 A continuación se detalla el contenido de los archivos principales de este repositorio:
 
-- **`Análisis Exploratorio.ipynb`**: Análisis, limpieza de datos, tratamiento de valores nulos y visualización de la distribución clínica de los pacientes.
+- **`Análisis Exploratorio.ipynb`**: Análisis y visualización de la distribución clínica de los pacientes.
 - **`Código de MLP.ipynb`**: Preprocesamiento de texto médico (NLP con `CountVectorizer`), diseño, entrenamiento y evaluación del modelo Perceptrón Multicapa.
 - **`dataset_elpino.csv`**: Conjunto de datos base con registros clínicos y demográficos anonimizados de las admisiones del Hospital El Pino.
 
