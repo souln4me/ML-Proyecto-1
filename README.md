@@ -1,4 +1,6 @@
-# ML-Proyecto_1
-Repositorio relacionado al Proyecto 1 de Aprendizaje de Máquina.
+# 🏥 Predicción de Grupos Relacionados por Diagnóstico (GRD) mediante Machine Learning
 
-Trabajo_de_AM_fase1.ipynb : Base 
+![Python](https://img.shields.io/badge/Python-3.10%2B-blue)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-1.3-orange)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-2.x-FF6F00)
+![NLP](https://img.shields.io/badge/NLP-CountVectorizer-green)
