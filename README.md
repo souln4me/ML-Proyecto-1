@@ -24,3 +24,7 @@ A continuación se detalla el contenido de los archivos principales de este repo
   * Elías Gabriel Pérez Uribe
   * Sergio Ignacio Villegas Osores
   * Hugo Francisco Manuel Zamora Pardo
+
+## 🤖 Fase 2: Chatbot
+
+https://github.com/souln4me/ML-Minecraft-ChatBot
