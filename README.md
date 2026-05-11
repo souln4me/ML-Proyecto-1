@@ -11,6 +11,7 @@ A continuación se detalla el contenido de los archivos principales de este repo
 
 - **`Análisis Exploratorio.ipynb`**: Análisis y visualización de la distribución clínica de los pacientes.
 - **`Codigo_Fase_1.ipynb`**: Preprocesamiento de texto médico (NLP) y entrenamiento detallado del modelo de Red Neuronal (Perceptrón Multicapa).
+- **`Random_Forest.ipynb`**: Entrenamiento, optimización de hiperparámetros y extracción de importancia de variables (Feature Importance) del modelo ensamblado Random Forest.
 - **`dataset_elpino.csv`**: Conjunto de datos base con registros clínicos y demográficos anonimizados de las admisiones del Hospital El Pino.
 
 ## 🎓 Integrantes y Curso
