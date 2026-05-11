@@ -5,7 +5,7 @@
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-2.x-FF6F00)
 ![NLP](https://img.shields.io/badge/NLP-CountVectorizer-green)
 
-## Descripción de Archivos
+## 📂 Descripción de Archivos
 
 A continuación se detalla el contenido de los archivos principales de este repositorio:
 
